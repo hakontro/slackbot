@@ -1,0 +1,2 @@
+slackclient
+google-cloud-translate
